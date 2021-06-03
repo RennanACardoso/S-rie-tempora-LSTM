@@ -1,4 +1,6 @@
 import pandas as pd
+import matplotlib as plt
+
 base = pd.read_excel('juramento.xls', usecols=[2])
 
 
